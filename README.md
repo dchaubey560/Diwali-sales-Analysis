@@ -1,7 +1,7 @@
 # Diwali-sales-Analysis
-# 🪔 Diwali Sales Analysis
+# Diwali Sales Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes Diwali sales data using Python to understand customer purchasing behavior and identify business insights. The analysis focuses on different customer demographics such as gender, age group, marital status, occupation, state, and product category to discover patterns that can help businesses improve their marketing strategies and increase sales.
 
@@ -9,7 +9,7 @@ The project includes data cleaning, exploratory data analysis (EDA), and data vi
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains customer purchase information during the Diwali festival.
 
@@ -39,7 +39,7 @@ Some of the important columns include:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Import
 - Loaded the Diwali Sales dataset.
@@ -70,7 +70,7 @@ Used different visualization techniques like:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 After analyzing the dataset, the following observations were made:
 
@@ -84,7 +84,7 @@ After analyzing the dataset, the following observations were made:
 
 ---
 
-## 📷 Visualizations Included
+##  Visualizations Included
 
 The project contains visualizations for:
 
@@ -100,7 +100,7 @@ The project contains visualizations for:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Diwali-Sales-Analysis/
@@ -113,7 +113,7 @@ Diwali-Sales-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository.
 
@@ -137,7 +137,7 @@ jupyter notebook
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project helped in understanding:
 
@@ -150,13 +150,13 @@ This project helped in understanding:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 The analysis shows that customer demographics play an important role in purchasing behavior during the Diwali season. Businesses can use these insights to identify their target audience, improve marketing campaigns, and optimize product offerings to maximize sales.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Durgesh Chaubey**
 
